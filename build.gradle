@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'io.rest-assured', name: 'rest-assured', version: '4.3.2'
+    testCompile group: 'org.hamcrest', name: 'hamcrest-all', version: '1.3'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.11.3'
+    implementation "net.serenity-bdd:serenity-core:2.2.0",
+            "net.serenity-bdd:serenity-screenplay:2.2.0",
+            "net.serenity-bdd:serenity-screenplay-rest:2.2.0",
+            "net.serenity-bdd:serenity-screenplay-webdriver:2.2.0"
+    testImplementation "net.serenity-bdd:serenity-cucumber5:2.2.0"
+
+}
+
+test {
+    useJUnitPlatform()
+}
