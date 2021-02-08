@@ -16,6 +16,7 @@ Característica: realizar proceso de autenticacion en el plicativo de colensione
     Entonces podemos observar el mensaje '<mensaje esperado>'
 
     Ejemplos:
-      |user      |Password   |mensaje esperado|
-      |112  |23321dd |Generación OTP|
-      |     |asdas   |Campo Requerido*|
+      | user | Password | mensaje esperado |
+      | 112  | 23321dd  | Generación OTP   |
+    #  |      | asdas    | Campo Requerido* |
+     # | 123  |          | Campo Requerido* |

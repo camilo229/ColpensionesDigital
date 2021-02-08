@@ -12,8 +12,10 @@ import static userinterface.InicioSesionColpensionesDigitalUserInterface.*;
 
 @AllArgsConstructor
 public class IniciarSesion implements Task {
+
     public final String nombreUsuario;
     public final String password;
+
 
     public static IniciarSesion enAppGyF(String nombreUsuario, String password) {
         return Tasks.instrumented(IniciarSesion.class, nombreUsuario, password);
@@ -26,5 +28,7 @@ public class IniciarSesion implements Task {
         actor.attemptsTo(Click.on(TXT_CONTRASENIA),
                 Enter.theValue(password).into(TXT_CONTRASENIA));
         actor.attemptsTo(Click.on(BTN_INGRESAR));
+
+
     }
 }

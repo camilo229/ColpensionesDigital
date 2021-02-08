@@ -17,7 +17,7 @@ public class ConsultaInformacionCliente implements Task {
     public final String numero_Credito;
     public final String numero_Documento;
 
-    public static ConsultaInformacionCliente cliente(String numeroCredito, String numeroDocumento) {
+    public static ConsultaInformacionCliente Consnultar(String numeroCredito, String numeroDocumento) {
         return Tasks.instrumented(ConsultaInformacionCliente.class, numeroCredito, numeroDocumento);
     }
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="realizar proceso de autenticacion en el plicativo de giros y finanzas" skipped="0" tests="2" time="12.97" timestamp="2021-02-01 06:26:18"><testcase name="Autenticar de manera incorrecta"><error type="java.lang.NullPointerException"/><system-err>null&#13;
 task.IniciarSesion.performAs(IniciarSesion.java:19)&#13;
-stepdefinitions.StepLogin.iniciar_sesion(StepLogin.java:20)&#13;
+stepdefinitions.StepInicioSesion.iniciar_sesion(StepLogin.java:20)&#13;
 io.cucumber.java.Invoker.invoke(Invoker.java:27)&#13;
 io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)&#13;
 io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
