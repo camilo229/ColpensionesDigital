@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: org.apache.httpcomponents:httpmime:4.5.11">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/a0da6f21987ce0cf521b39f97f7a4e9480b05e54/httpmime-4.5.11.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/a0da6f21987ce0cf521b39f97f7a4e9480b05e54/httpmime-4.5.11.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/a0da6f21987ce0cf521b39f97f7a4e9480b05e54/httpmime-4.5.11.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/e6eb03440d5911e1b125266b000eec4f0fab4c9a/httpmime-4.5.11-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/e6eb03440d5911e1b125266b000eec4f0fab4c9a/httpmime-4.5.11-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.11/e6eb03440d5911e1b125266b000eec4f0fab4c9a/httpmime-4.5.11-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

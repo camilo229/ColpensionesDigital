@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.vladsch.flexmark:flexmark:0.34.30">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/1940a7b22e3fc0ed01619e6fc0a8ea6077ace923/flexmark-0.34.30.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/1940a7b22e3fc0ed01619e6fc0a8ea6077ace923/flexmark-0.34.30.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/1940a7b22e3fc0ed01619e6fc0a8ea6077ace923/flexmark-0.34.30.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/a88068e12d3c87a643bfb62daa36f8fca91aedd6/flexmark-0.34.30-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/a88068e12d3c87a643bfb62daa36f8fca91aedd6/flexmark-0.34.30-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.34.30/a88068e12d3c87a643bfb62daa36f8fca91aedd6/flexmark-0.34.30-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

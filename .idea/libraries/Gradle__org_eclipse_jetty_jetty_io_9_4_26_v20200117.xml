@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: org.eclipse.jetty:jetty-io:9.4.26.v20200117">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/911080b65ba6e83c92058f7003c3bbdffe113437/jetty-io-9.4.26.v20200117.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/911080b65ba6e83c92058f7003c3bbdffe113437/jetty-io-9.4.26.v20200117.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/911080b65ba6e83c92058f7003c3bbdffe113437/jetty-io-9.4.26.v20200117.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/65e3026a12893b6491f68af7b54aadaa2f28815/jetty-io-9.4.26.v20200117-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/65e3026a12893b6491f68af7b54aadaa2f28815/jetty-io-9.4.26.v20200117-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.26.v20200117/65e3026a12893b6491f68af7b54aadaa2f28815/jetty-io-9.4.26.v20200117-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

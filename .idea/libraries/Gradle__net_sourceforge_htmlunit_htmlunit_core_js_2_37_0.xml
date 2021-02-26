@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: net.sourceforge.htmlunit:htmlunit-core-js:2.37.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/bb047ff553c7541bc3cc080a6f8f8b518cf4f38d/htmlunit-core-js-2.37.0.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/bb047ff553c7541bc3cc080a6f8f8b518cf4f38d/htmlunit-core-js-2.37.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/bb047ff553c7541bc3cc080a6f8f8b518cf4f38d/htmlunit-core-js-2.37.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/6826961fec817e5f22dc37a2ca3b6a6c8cd51bf1/htmlunit-core-js-2.37.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/6826961fec817e5f22dc37a2ca3b6a6c8cd51bf1/htmlunit-core-js-2.37.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.37.0/6826961fec817e5f22dc37a2ca3b6a6c8cd51bf1/htmlunit-core-js-2.37.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

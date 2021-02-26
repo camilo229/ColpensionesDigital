@@ -6,8 +6,7 @@ import lombok.Getter;
 @AllArgsConstructor
 @Getter
 public enum VariablesSesion {
+  MENSAJE_OBTENIDO("Mensaje Obtenido");
 
-    MENSAJE_OBTENIDO("Mensaje Obtenido");
-
-    private final String Mensaje;
+  private final String Mensaje;
 }

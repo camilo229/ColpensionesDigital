@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: net.sourceforge.htmlunit:htmlunit:2.37.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/8edd052cb83da0a816db0fa6926b6e2109c1ef38/htmlunit-2.37.0.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/8edd052cb83da0a816db0fa6926b6e2109c1ef38/htmlunit-2.37.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/8edd052cb83da0a816db0fa6926b6e2109c1ef38/htmlunit-2.37.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/efc90a0053b2ef87769eaeb3a06aea21e8390bef/htmlunit-2.37.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/efc90a0053b2ef87769eaeb3a06aea21e8390bef/htmlunit-2.37.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.37.0/efc90a0053b2ef87769eaeb3a06aea21e8390bef/htmlunit-2.37.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

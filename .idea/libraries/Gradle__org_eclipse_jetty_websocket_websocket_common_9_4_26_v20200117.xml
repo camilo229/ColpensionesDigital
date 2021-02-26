@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.4.26.v20200117">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/ab378b0499a962ad4eb65c99d3fd26a3e735b03b/websocket-common-9.4.26.v20200117.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/ab378b0499a962ad4eb65c99d3fd26a3e735b03b/websocket-common-9.4.26.v20200117.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/ab378b0499a962ad4eb65c99d3fd26a3e735b03b/websocket-common-9.4.26.v20200117.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/342e6a5f2cbe5d646a0b847c742886055f2d01d8/websocket-common-9.4.26.v20200117-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/342e6a5f2cbe5d646a0b847c742886055f2d01d8/websocket-common-9.4.26.v20200117-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.26.v20200117/342e6a5f2cbe5d646a0b847c742886055f2d01d8/websocket-common-9.4.26.v20200117-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

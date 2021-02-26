@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: net.serenity-bdd:serenity-reports:2.2.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/aadf141be3048c9a47a3447e7562d04c32440325/serenity-reports-2.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/aadf141be3048c9a47a3447e7562d04c32440325/serenity-reports-2.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/aadf141be3048c9a47a3447e7562d04c32440325/serenity-reports-2.2.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.5.1/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/e200e6c5eb3130cc6efa0fb24377ada8ceea4bc3/serenity-reports-2.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/gradle-6.5.1/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/e200e6c5eb3130cc6efa0fb24377ada8ceea4bc3/serenity-reports-2.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-reports/2.2.0/e200e6c5eb3130cc6efa0fb24377ada8ceea4bc3/serenity-reports-2.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
